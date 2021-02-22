@@ -1,0 +1,11 @@
+<div>
+	<ul>
+		<li>
+			git clone *path-to-repository*  ,,клонирование удаленного репозитория на локальную машину
+		</li>
+		<li>git status //статус текущего локального репозитория</li>
+		<li>git add *path-to-file* //добавить файл в список отслеживаемых гитом</li>
+		<li>git commit -am "your comment" // комментируем наши изменения</li>
+		<li></li>
+	</ul>
+</div>
